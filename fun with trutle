@@ -1,3 +1,5 @@
+#fun with turtle
+#by Rajiv N
 import turtle
 turtle.color("red")
 
